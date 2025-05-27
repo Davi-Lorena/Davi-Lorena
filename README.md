@@ -1,5 +1,5 @@
  <h1 align="center">Hello 👋, I'm Davi Lorena</h1>
-<h3 align="center">A Front-end developer in training at Rocketseat, with the aim of becoming fullstack.</h3>
+<h3 align="center">"Computer Science" student at UNIFEI and front-end developer in training to become full-stack with Rocketseat and "O novo programador" (The New Programmer).</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
